@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Layout Android</string>
+    <string name="titulo">Utilizando imagens no Android</string>
+    <string name="nome">Antonio Augusto</string>
+    <string name="data">17/04/2029</string>
+    <string name="anterior">ANTERIOR</string>
+    <string name="proximo">PRÓXIMO</string>
+    <string name="texto">Utilizar imagens é uma tarefa bastante comum em aplicativos Android. As imagens podem ser utilizadas para melhorar a aparência de um aplicativo, fornecer informações visuais importantes para o usuário, ou simplesmente tornar a experiência do usuário mais agradável.  Para adicionar imagens em um aplicativo Android, é necessário armazenar as imagens em um formato que o Android possa ler, como PNG, JPEG ou GIF. Em seguida, essas imagens podem ser adicionadas ao projeto do aplicativo, na pasta \"res/drawable\".</string>
+</resources>
